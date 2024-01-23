@@ -10,4 +10,4 @@
 # Usage
 `python3 zfuzz.py --help `
 `python3 -u <your website> -w <your wordlist> `
-`python3 zfuzz -u https://google.com -w Admin-Login.txt
+`python3 zfuzz -u https://google.com -w Admin-Login.txt `
