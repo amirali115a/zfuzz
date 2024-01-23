@@ -1,5 +1,5 @@
 
-<img align="center" src=".img/screen.png" width="900">
+<img align="center" src=".screen.png" width="900">
 
 
 # installation
