@@ -5,7 +5,7 @@
 # installation
 `git clone https://github.com/amirali115a/zfuzz `
 `cd zfuzz`
-`pip3 install -r `
+`pip3 install -r Requirements.txt`
 
 # Usage
 `python3 zfuzz.py --help `
