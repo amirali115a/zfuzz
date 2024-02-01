@@ -1,6 +1,6 @@
 
+<img align="center" src="logo.png" width="900">
 <img align="center" src="screen.png" width="900">
-
 
 # installation
 `git clone https://github.com/amirali115a/zfuzz `
